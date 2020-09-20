@@ -1,0 +1,35 @@
+The most positive word is "melted" with a score of 4.000
+
+Enter review or DONE to finish:
+Review score: 2.3673
+This review is positive.
+
+Enter review or DONE to finish:
+Review score: 1.7853
+This review is negative.
+
+Enter review or DONE to finish:
+Review score: 2.0070
+This review is positive.
+
+Enter review or DONE to finish:
+Review score: 2.2575
+This review is positive.
+
+Enter review or DONE to finish:
+Review score: 1.7969
+This review is negative.
+
+Enter review or DONE to finish:
+Review score: 1.9859
+This review is negative.
+
+Enter review or DONE to finish:
+Review score: 1.7592
+This review is negative.
+
+Enter review or DONE to finish:
+Review score: 2.3052
+This review is positive.
+
+Enter review or DONE to finish:
